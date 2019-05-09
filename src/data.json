@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Ahoj",
+      "body": "Prvni zprava telo ahoj"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Ahoj",
+      "body": "Druha zprava telo ahoj"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Ahoj",
+      "body": "zprava telo ahoj"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Ahoj",
+      "body": "zprava telo ahoj"
+    },
+    {
+      "title": "asdad",
+      "body": "asdas",
+      "id": 5
+    },
+    {
+      "title": "dasdsad",
+      "body": "dasdas",
+      "id": 6
+    },
+    {
+      "title": "aaaa",
+      "body": "aaaa",
+      "id": 7
+    },
+    {
+      "title": "ssss",
+      "body": "ssss",
+      "id": 8
+    },
+    {
+      "title": "asd",
+      "body": "asdasd",
+      "id": 9
+    },
+    {
+      "title": "Tak co",
+      "body": "Jede to?",
+      "id": 10
+    },
+    {
+      "title": "Tak co",
+      "body": "Jede to?",
+      "id": 11
+    },
+    {
+      "title": "Tak co",
+      "body": "Jede to?",
+      "id": 12
+    },
+    {
+      "title": "JEAO",
+      "body": "Jede to?",
+      "id": 13
+    }
+  ]
+}
